@@ -1,2 +1,2 @@
 # image2gcloud
-Upload and resize image with PIL to google cloud storage
+Resize image with PIL and upload it to google cloud storage
